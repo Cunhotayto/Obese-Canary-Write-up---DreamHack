@@ -2,7 +2,9 @@
 Hướng dẫn cách giải bài Obese Canary cho anh em mới chơi pwnable.
 
 **Author:** Nguyễn Cao Nhân aka Nhân Sigma
+
 **Category:** Binary Exploitation
+
 **Date:** 29/11/2025
 
 ## 1. Mục tiêu cần làm
